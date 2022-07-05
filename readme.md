@@ -10,9 +10,8 @@ based on a high building.
 </br>
 Some data is already labeled by me, but others aren't yet. If you would like to label the data that is currently unlabelled, you can message me so I can add that new labeled data in the labeled dataset.
 </br></br>
-These datasets can be pulled from these links: 
+These datasets can be pulled from this link: 
 </br>
 <ul>
-<li>Labeled dataset: https://www.kaggle.com/ricardodedeijn/drone_detection_labeled</li>
-<li>Unlabeled dataset: https://www.kaggle.com/ricardodedeijn/drone_detection_unlabeled</li>
+<li>The two datasets: https://www.kaggle.com/ricardodedeijn/drone_detection</li>
 </ul>
