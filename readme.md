@@ -13,5 +13,5 @@ Some data is already labeled by me, but others aren't yet. If you would like to 
 These datasets can be pulled from this link: 
 </br>
 <ul>
-<li>The two datasets: https://www.kaggle.com/ricardodedeijn/drone_detection</li>
+<li>The two datasets: https://www.kaggle.com/ricardodedeijn/drone-detection</li>
 </ul>
